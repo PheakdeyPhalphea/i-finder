@@ -9,7 +9,6 @@ export default function Home() {
     pageSize: 5,
   });
   const news = data?.results;
-  console.log(news);
   return (
     <main>
       <section className="w-[90%] mx-auto flex justify-around">
