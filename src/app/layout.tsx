@@ -6,7 +6,9 @@ import StoreProvider from "./StoreProvider";
 import { Suspense } from "react";
 import { ErrorBoundary } from "next/dist/client/components/error-boundary";
 import Error from "./error";
-import FooterComponent from "@/components/FooterComponent";
+import FooterComponent from "@/components/Footer/FooterComponent";
+import NavbarComponents from "@/components/Navbar/NavbarComponents";
+import TabbarComponents from "@/components/Tabbar/TabbarComponents";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
@@ -26,8 +28,16 @@ export default function RootLayout({
           <Providers>
             <Suspense fallback={""}>
               <ErrorBoundary errorComponent={Error}>
-                {children}
-                <FooterComponent />
+                <header>
+                  <NavbarComponents/>
+                  <TabbarComponents/>
+                </header>
+                <main>
+                  {children}
+                </main>
+                <footer>
+                  <FooterComponent />
+                </footer>
               </ErrorBoundary>
             </Suspense>
           </Providers>
