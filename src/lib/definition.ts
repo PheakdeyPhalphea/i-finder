@@ -1,8 +1,8 @@
 type NewsType = {
-    hits: HitType[];
+  hits: HitType[];
 };
 type HitType = {
-    document: ResultDocumentType;
+  document: ResultDocumentType;
 };
 type ResultDocumentType = {
   author: string;
@@ -19,3 +19,14 @@ type ResultDocumentType = {
   title: string;
 };
 
+type VideosType = {
+  videoId: string;
+  channel: string;
+  title: string;
+  description: string;
+  publishedAt: string;
+  thumbnail: string;
+  viewCount: string;
+  duration: string;
+  youtubeLink: string;
+};
