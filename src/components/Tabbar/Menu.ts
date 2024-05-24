@@ -1,27 +1,34 @@
-export const MenuList = [
+export interface MenuItem {
+    name: string;
+    path: string;
+    active: boolean;
+  }
+  
+  export const MenuList: MenuItem[] = [
     {
-        name: "All",
-        path: "/",
-        active: false,
+      name: "All",
+      path: "/",
+      active: true,
     },
     {
-        name: "Images",
-        path: "/images",
-        active: true,
+      name: "Images",
+      path: "/images",
+      active: false,
     },
     {
-        name: "Videos",
-        path: "/videos",
-        active: false,
+      name: "Videos",
+      path: "/videos",
+      active: false,
     },
     {
-        name: "News",
-        path: "/news",
-        active: false,
+      name: "News",
+      path: "/news",
+      active: false,
     },
     {
-        name: "Fillters",
-        path: "/fillters",
-        active: false,
-    }
-]
+      name: "Filters",
+      path: "/filters",
+      active: false,
+    },
+  ];
+  
