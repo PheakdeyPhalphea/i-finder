@@ -1,0 +1,279 @@
+{
+  "results": [
+    {
+      "facet_counts": [],
+      "found": 1,
+      "search_time_ms": 0,
+      "out_of": 1,
+      "search_cutoff": false,
+      "page": 1,
+      "grouped_hits": null,
+      "hits": [
+        {
+          "highlights": [
+            {
+              "field": "description",
+              "snippet": "Koh Santepheap Daily - Breaking news, <mark>c</mark>omment and features from Koh Santepheap Daily newspaper.Join Telegram : https://t.me/kohsantepheapdaily",
+              "snippets": null,
+              "value": null,
+              "values": null,
+              "indices": null,
+              "matched_tokens": ["c"]
+            }
+          ],
+          "highlight": {
+            "description": {
+              "matched_tokens": ["c"],
+              "snippet": "Koh Santepheap Daily - Breaking news, <mark>c</mark>omment and features from Koh Santepheap Daily newspaper.Join Telegram : https://t.me/kohsantepheapdaily"
+            }
+          },
+          "document": {
+            "author": "",
+            "description": "Koh Santepheap Daily - Breaking news, comment and features from Koh Santepheap Daily newspaper.Join Telegram : https://t.me/kohsantepheapdaily",
+            "domain": "https://kohsantepheapdaily.com.kh/",
+            "id": "0",
+            "image": {
+              "imageUrl": [
+                "https://kohsantepheapdaily.com.kh/wp-content/themes/koh_mobile_twenty_three/img/koh-web-logo.svg",
+                "https://kohsantepheapdaily.com.kh/wp-content/themes/koh_mobile_twenty_three/img/play-store.png",
+                "https://kohsantepheapdaily.com.kh/wp-content/themes/koh_mobile_twenty_three/img/app-store.png",
+                "https://a20.kspg.co/www/delivery/avw.php?zoneid=55&cb=INSERT_RANDOM_NUMBER_HERE&n=ae9d6611"
+              ],
+              "url": "https://kohsantepheapdaily.com.kh/"
+            },
+            "keyword": "Koh Santepheap Daily - Breaking news, comment and features from Koh Santepheap Daily newspaper.Join Telegram : https://t.me/kohsantepheapdaily",
+            "logo": "https://kohsantepheapdaily.com.kh/wp-content/uploads/2021/01/2634dfe9874eb4943bb61eae9f42c1fa.png",
+            "thumbnail": "",
+            "title": "Koh Santepheap Daily"
+          },
+          "text_match": 578730089005449337,
+          "geo_distance_meters": null,
+          "vector_distance": null
+        }
+      ],
+      "request_params": {
+        "collection_name": "Koh Santepheap Daily",
+        "q": "c",
+        "per_page": 10
+      }
+    },
+    {
+      "facet_counts": [],
+      "found": 1,
+      "search_time_ms": 0,
+      "out_of": 1,
+      "search_cutoff": false,
+      "page": 1,
+      "grouped_hits": null,
+      "hits": [
+        {
+          "highlights": [
+            {
+              "field": "description",
+              "snippet": "Visit Khmerload for up-to-the-minutes <mark>C</mark>ambodia news, breaking news, and feature stories in Khmer language.",
+              "snippets": null,
+              "value": null,
+              "values": null,
+              "indices": null,
+              "matched_tokens": ["C"]
+            }
+          ],
+          "highlight": {
+            "description": {
+              "matched_tokens": ["C"],
+              "snippet": "Visit Khmerload for up-to-the-minutes <mark>C</mark>ambodia news, breaking news, and feature stories in Khmer language."
+            }
+          },
+          "document": {
+            "author": "",
+            "description": "Visit Khmerload for up-to-the-minutes Cambodia news, breaking news, and feature stories in Khmer language.",
+            "domain": "https://www.khmerload.com/",
+            "id": "0",
+            "image": {
+              "imageUrl": [
+                "https://www.khmerload.com/assets/khmerload/logo-192x192.webp",
+                "https://s9.kh1.co/__image/w=1200,h=630,q=100/89/892c53e3a88986dc03ab34702f33f6ff8ad537e8.jpg",
+                "https://www.gravatar.com/avatar/8707d6efc7f66a6944c41b264c3461e3?s=100&d=robohash&r=g",
+                "https://s9.kh1.co/__image/w=1200,h=630,q=100/5c/5ca0ab3a2d0272a056117c69376405eac303736b.jpg",
+                "https://www.gravatar.com/avatar/404d101a455e8b0a4f2dcd3061876941?s=100&d=robohash&r=g",
+                "https://s9.kh1.co/__image/w=1200,h=630,q=100/16/16fec4657253e54536d843aa24c596ca9a4b7b81.jpg",
+                "https://www.gravatar.com/avatar/2ef0ec4dc479192504cba4e3d436fc08?s=100&d=robohash&r=g",
+                "https://s9.kh1.co/__image/w=1200,h=630,q=100/0b/0b1f40bb39458789f424eed10cafb48a867bb827.jpg",
+                "https://www.gravatar.com/avatar/dddefc1e6386298088ec02a61b954ad2?s=100&d=robohash&r=g",
+                "https://s9.kh1.co/__image/w=1200,h=630,q=100/96/9633fdc8d5f038fa956c53117ba0950f354299de.jpg",
+                "https://www.gravatar.com/avatar/dddefc1e6386298088ec02a61b954ad2?s=100&d=robohash&r=g",
+                "https://s9.kh1.co/__image/w=250,h=130,q=100/bf/bf1d36f7ac48f61d57661e8ed49703d9c6dd2ac6.jpg",
+                "https://www.gravatar.com/avatar/5a14fa25366d2b3b358b499340ca25c3?s=100&d=robohash&r=g",
+                "https://s9.kh1.co/__image/w=250,h=130,q=100/1e/1ec623dff35800904e4cafea80fc361c9a8a8ef4.jpg",
+                "https://www.gravatar.com/avatar/2ef0ec4dc479192504cba4e3d436fc08?s=100&d=robohash&r=g",
+                "https://s9.kh1.co/__image/w=250,h=130,q=100/b1/b12d74e564b8e51bd687cad7a0174e4b6f338920.jpg",
+                "https://www.gravatar.com/avatar/dddefc1e6386298088ec02a61b954ad2?s=100&d=robohash&r=g",
+                "https://s9.kh1.co/__image/w=250,h=130,q=100/b5/b546c694005cf33d9d0664ab37a65b85a98a2160.jpg",
+                "https://www.gravatar.com/avatar/2ef0ec4dc479192504cba4e3d436fc08?s=100&d=robohash&r=g",
+                "https://s9.kh1.co/__image/w=250,h=130,q=100/69/69fa2c96baaed81151ecd14542f943463ea0b545.jpg",
+                "https://www.gravatar.com/avatar/8707d6efc7f66a6944c41b264c3461e3?s=100&d=robohash&r=g",
+                "https://s9.kh1.co/__image/w=250,h=130,q=100/8b/8b4e6955c9fb51d36e4b8ffbab59c4ea0e1bd28b.jpg",
+                "https://www.gravatar.com/avatar/8707d6efc7f66a6944c41b264c3461e3?s=100&d=robohash&r=g",
+                "https://s9.kh1.co/__image/w=250,h=130,q=100/19/19aa00e9867db155ec31494ed76a1cf158e843c3.jpg",
+                "https://www.gravatar.com/avatar/5a14fa25366d2b3b358b499340ca25c3?s=100&d=robohash&r=g"
+              ],
+              "url": "https://www.khmerload.com/"
+            },
+            "keyword": "cambodia, khmer, khmerload, latest, news, entertainment, sports, celebrity",
+            "logo": "https://www.khmerload.com/assets/khmerload/favicon.ico",
+            "thumbnail": "",
+            "title": "Khmerload | Cambodia Latest News"
+          },
+          "text_match": 578730089005449337,
+          "geo_distance_meters": null,
+          "vector_distance": null
+        }
+      ],
+      "request_params": {
+        "collection_name": "Khmerload | Cambodia Latest News",
+        "q": "c",
+        "per_page": 10
+      }
+    },
+    {
+      "facet_counts": [],
+      "found": 1,
+      "search_time_ms": 0,
+      "out_of": 1,
+      "search_cutoff": false,
+      "page": 1,
+      "grouped_hits": null,
+      "hits": [
+        {
+          "highlights": [
+            {
+              "field": "description",
+              "snippet": "noteworthy science and technology <mark>c</mark>enter in <mark>C</mark>ambodia. <mark>C</mark>STAD has routed <mark>C</mark>ambodian students to advanced science",
+              "snippets": null,
+              "value": null,
+              "values": null,
+              "indices": null,
+              "matched_tokens": ["c", "C", "C", "C"]
+            }
+          ],
+          "highlight": {
+            "description": {
+              "matched_tokens": ["c", "C", "C", "C"],
+              "snippet": "noteworthy science and technology <mark>c</mark>enter in <mark>C</mark>ambodia. <mark>C</mark>STAD has routed <mark>C</mark>ambodian students to advanced science"
+            }
+          },
+          "document": {
+            "author": "ISTAD",
+            "description": "CSTAD is a noteworthy science and technology center in Cambodia. CSTAD has routed Cambodian students to advanced science and technology, research, and develop digital skills and our graduates have been guaranteed excellent job opportunities with the Top IT company.",
+            "domain": "https://www.istad.co/",
+            "id": "0",
+            "image": {
+              "imageUrl": [
+                "https://www.istad.co/resources/img/CSTAD_120.png",
+                "https://api.istad.co/media/image/899bac49-e47c-406c-abb2-30ad0b498f88.png",
+                "https://api.istad.co/media/image/4709913c-3dd4-4896-8b05-ba6f7fd074ba.png",
+                "https://api.istad.co/media/image/354762b5-e27a-40ac-93c3-6de5cdb0362f.png",
+                "https://api.istad.co/media/image/3a3d2bf2-670b-4f2f-a72a-b9b8ba3a0f38.png",
+                "https://api.istad.co/media/image/835a7298-dbab-448d-8229-ee8a555c4846.png",
+                "https://api.istad.co/media/image/73c3424a-39e0-450c-8969-8b35559594f5.png",
+                "https://api.istad.co/media/image/3d7beaad-309a-4f2f-91e2-b3be705ef3f6.png",
+                "https://api.istad.co/media/image/a3c4f87e-7a85-44c3-a568-6c5abef76cfe.png",
+                "https://api.istad.co/media/image/0d254e62-5896-4c61-b1aa-c7de02d8d40d.png",
+                "https://api.istad.co/media/image/dea9d967-e99e-49f3-a999-5b710dd5daf3.png",
+                "https://api.istad.co/media/image/b9bf96d7-c352-4533-8025-f017517ba648.png",
+                "https://api.istad.co/media/image/c8c41751-3bc0-4f07-9658-7d95efbae692.png",
+                "https://api.istad.co/media/image/24c392c2-152b-49c0-bddb-dc12b9403b3e.png",
+                "https://api.istad.co/media/image/b0b3f26d-4d21-45c6-9ed4-8e1f9f11e534.png",
+                "https://api.istad.co/media/image/06978082-c2f3-4807-8d33-9bef1b58669e.png",
+                "https://api.istad.co/media/image/b46a25a4-791a-4698-8016-f0b585bc6f33.png",
+                "https://api.istad.co/media/image/6bf00a60-e5d0-416a-a1e3-0cee636f927b.png",
+                "https://api.istad.co/media/image/e4a4d369-72c3-441c-9df1-23cc6e2ce3f7.jpg",
+                "https://api.istad.co/media/image/06978082-c2f3-4807-8d33-9bef1b58669e.png",
+                "https://api.istad.co/media/image/b46a25a4-791a-4698-8016-f0b585bc6f33.png",
+                "https://api.istad.co/media/image/6bf00a60-e5d0-416a-a1e3-0cee636f927b.png",
+                "https://api.istad.co/media/image/e4a4d369-72c3-441c-9df1-23cc6e2ce3f7.jpg",
+                "https://api.istad.co/media/image/53e118d6-58e3-4ec1-b40c-ef44f09c441e.jpg",
+                "https://api.istad.co/media/image/779a9824-0e29-44ff-9f4c-922d78f04b1f.png",
+                "https://api.istad.co/media/image/ca4fca81-5460-40c8-9d6b-e9270cd2ecae.png",
+                "https://api.istad.co/media/image/21a31c2d-181b-4ee0-aed9-61dfb8a09757.jpg",
+                "https://api.istad.co/media/image/a4730d8d-349d-4488-a49b-755d8a01bffe.png",
+                "https://api.istad.co/media/image/aed02d47-329b-4493-89b9-56a93ed06946.png",
+                "https://api.istad.co/media/image/665bb2ec-bd8b-4dc0-bbc0-c652aacc422b.png",
+                "https://api.istad.co/media/image/77da9050-7ff8-40af-a317-11d097cfacb7.png",
+                "https://api.istad.co/media/image/0f73eade-8174-4d30-bed9-6319a27ce149.png",
+                "https://api.istad.co/media/image/ebb72f6e-6c2f-4e04-bc75-37253c41555e.png",
+                "https://api.istad.co/media/image/a05c8a05-2de6-4dc4-b33e-c7c4689e4f9a.png",
+                "https://www.istad.co/resources/img/CSTAD_120.png"
+              ],
+              "url": "https://www.istad.co/"
+            },
+            "keyword": "IT School, Cambodia Technology, Software Expert, Short Course, Computer Science",
+            "logo": "https://www.istad.co/resources/img/logo_md.png",
+            "thumbnail": "https://www.istad.co/resources/img/istad-thumbnail.png",
+            "title": "CSTAD"
+          },
+          "text_match": 578730089005449337,
+          "geo_distance_meters": null,
+          "vector_distance": null
+        }
+      ],
+      "request_params": {
+        "collection_name": "CSTAD",
+        "q": "c",
+        "per_page": 10
+      }
+    },
+    {
+      "facet_counts": [],
+      "found": 1,
+      "search_time_ms": 0,
+      "out_of": 1,
+      "search_cutoff": false,
+      "page": 1,
+      "grouped_hits": null,
+      "hits": [
+        {
+          "highlights": [
+            {
+              "field": "description",
+              "snippet": "BongThom.com is <mark>C</mark>ambodia's premier job announcements portal. job, jobs, job in <mark>c</mark>ambodia, jobs in <mark>c</mark>ambodia, top",
+              "snippets": null,
+              "value": null,
+              "values": null,
+              "indices": null,
+              "matched_tokens": ["C", "c", "c"]
+            }
+          ],
+          "highlight": {
+            "description": {
+              "matched_tokens": ["C", "c", "c"],
+              "snippet": "BongThom.com is <mark>C</mark>ambodia's premier job announcements portal. job, jobs, job in <mark>c</mark>ambodia, jobs in <mark>c</mark>ambodia, top"
+            }
+          },
+          "document": {
+            "author": "",
+            "description": "BongThom.com is Cambodia's premier job announcements portal. job, jobs, job in cambodia, jobs in cambodia, top job, top jobs, most popular job site, job site, work, works, work in cambodia, works in cambodia, cambodia job, cambodia jobs, position, job position, job position in cambodia, job announcement",
+            "domain": "https://bongthom.com/",
+            "id": "0",
+            "image": {
+              "imageUrl": [],
+              "url": "https://bongthom.com/"
+            },
+            "keyword": "BongThom.com is Cambodia's premier job announcements portal. job, jobs, job in cambodia, jobs in cambodia, top job, top jobs, most popular job site, job site, work, works, work in cambodia, works in cambodia, cambodia job, cambodia jobs, position, job position, job position in cambodia, job announcement",
+            "logo": "https://bongthom.com/favicons/favicon-32x32.png",
+            "thumbnail": "",
+            "title": "Jobs and Classified Ads in Cambodia"
+          },
+          "text_match": 578730089005449337,
+          "geo_distance_meters": null,
+          "vector_distance": null
+        }
+      ],
+      "request_params": {
+        "collection_name": "Jobs and Classified Ads in Cambodia",
+        "q": "c",
+        "per_page": 10
+      }
+    }
+  ]
+}
