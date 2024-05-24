@@ -8,19 +8,19 @@ const config: Config = {
     "./node_modules/@nextui-org/theme/dist/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    colors: {
-      PrimaryColor: "#D9D9D9",
-      SecondaryColor: "#253C95",
-      AccentColor: "#EA4335",
-      BgColor: "#FFFFFF",
-      TextColor: "#232323",
-      VariantTextColor: "A4A4A4",
-    },
     extend: {
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
+      },
+      colors: {
+        PrimaryColor: "#D9D9D9",
+        SecondaryColor: "#253C95",
+        AccentColor: "#EA4335",
+        BgColor: "#FFFFFF",
+        TextColor: "#232323",
+        VariantTextColor: "A4A4A4",
       },
     },
   },

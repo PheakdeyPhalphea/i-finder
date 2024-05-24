@@ -12,7 +12,7 @@ export default function RelatedNewsComponent() {
         />
       </div>
       <div className="p-6">
-        <div className="flex items-start justify-between mb-2">
+        <div className="flex items-start justify-between mb-2​ ">
           <p className="block font-sans text-base antialiased font-medium  text-blue-gray-900">
             Over 400 million Google accounts have used passkeys, but our
             passwordless future remains elusive
