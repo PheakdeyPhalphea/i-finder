@@ -9,8 +9,8 @@ const TabbarComponents = () => {
   const rightMenu = MenuList.slice(4);
 
   return (
-    <nav className="bg-white  py-4">
-      <div className="w-full ml-52">
+    <nav className="bg-white w-full  py-4">
+      <div className=" ml-52" >
         <div className=" flex">
           <div className="w-[700px] flex justify-between">
             {/* Left Menu Items */}
