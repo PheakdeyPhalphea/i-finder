@@ -22,6 +22,51 @@ const config: Config = {
         TextColor: "#232323",
         VariantTextColor: "A4A4A4",
       },
+      fontSize: {
+        h1: [
+          "48px",
+          {
+            lineHeight: "54px",
+            fontWeight: "700",
+          },
+        ],
+        h2: [
+          "40px",
+          {
+            lineHeight: "36px",
+            fontWeight: "600",
+          },
+        ],
+        h3: [
+          "24px",
+          {
+            lineHeight: "24px",
+            fontWeight: "500",
+          },
+        ],
+        h4: [
+          "20px",
+          {
+            lineHeight: "30px",
+            fontWeight: "500",
+          },
+        ],
+        title: [
+          "16px",
+          {
+            lineHeight: "24px",
+            fontWeight: "400",
+          },
+        ],
+        body: [
+          "18px",
+          {
+            lineHeight: "12px",
+            fontWeight: "400",
+          },
+        ],
+
+      },
     },
   },
   darkMode: "class",
