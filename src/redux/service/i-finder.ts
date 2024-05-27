@@ -11,7 +11,7 @@ export const iFinderApi = createApi({
       query: ({ page = 1, pageSize = 5 }) => "data/news.json",
     }),
     getVideos: builder.query<any, { page: number; pageSize: number }>({
-      query: ({ page = 1, pageSize = 5 }) => "data/videos.json",
+      query: ({ page = 1, pageSize = 10 }) => "data/videos.json",
     }),
   }),
 });

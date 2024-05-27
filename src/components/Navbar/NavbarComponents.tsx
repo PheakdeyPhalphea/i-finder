@@ -68,7 +68,7 @@ const NavbarComponents = () => {
               </>
           ) : (
               <button
-                  className="px-4 py-2  text-white rounded-lg "
+                  className="px-4 py-2  text-white bg-blue-600 rounded-lg "
                   onClick={handleSignIn}
               >
                 Sign In
